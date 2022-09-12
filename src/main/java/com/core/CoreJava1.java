@@ -1,4 +1,4 @@
-package com.example;
+package com.core;
 
 public class CoreJava1 {
     public static void main(String[] args) {
